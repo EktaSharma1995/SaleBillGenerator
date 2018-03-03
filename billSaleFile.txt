@@ -1,0 +1,6 @@
+Bill #: 26
+Date: Fri Mar 02 21:30:38 EST 2018
+333 CO Comb 1994.67
+Subtotal: 1994.67
+Taxes @ 13%: 259.3071
+Total: 2253.9771
